@@ -1,0 +1,6 @@
+[submodule "themes/beg"]
+	path = themes/beg
+	url = https://github.com/dim0627/hugo_theme_beg.git
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = https://github.com/lucperkins/hugo-fresh

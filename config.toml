@@ -1,7 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "A Hugo website"
-theme = "hugo-lithium"
+#theme = "hugo-lithium"
+theme = "beg"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -16,11 +17,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "회칙"
     url = "/code/"
 [[menu.main]]
+    Name = "Team 1"
+    identifier = "teams"
+    URL = "#"
+    Weight = 1.0
+[[menu.main]]
     name = "GitHub"
+    parent = "teams"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
     name = "Twitter"
+    parent = "teams"
     url = "https://twitter.com/rstudio"
+
 
 [params]
     description = "A website built through Hugo and blogdown."
