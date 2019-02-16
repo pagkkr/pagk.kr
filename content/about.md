@@ -1,6 +1,7 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
 title: "소개"
+thumbnail = "http://www.twitrcovers.com/wp-content/uploads/2015/10/One-Tree-Hill-l.jpg"
 ---
 
 # 집단 약동/약력학이란?
