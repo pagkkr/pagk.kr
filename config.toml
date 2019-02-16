@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "PAGK"
 #theme = "hugo-lithium"
 theme = "beg"
 googleAnalytics = ""
@@ -11,25 +11,44 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "소개"
+    name = "연구회소개"
+    identifier = "intro"
     url = "/about/"
+    weight = -100
+[[menu.main]]
+    name = "소개"
+    parent = "intro"
+    url = "/about/"
+    weight = -100
 [[menu.main]]
     name = "회칙"
+    parent = "intro"
     url = "/code/"
+    weight = -10
 [[menu.main]]
-    Name = "Team 1"
+    name = "회원안내"
+    identifier = "members"
+    url = "/apply/"
+    weight = -90
+[[menu.main]]
+    name = "가입안내"
+    parent = "members"
+    url = "/apply/"
+    weight = 1
+[[menu.main]]
+    name = "구글 메일링리스트"
+    parent = "members"
+    url = "https://bit.ly/pilpagk"
+    weight = 2
+[[menu.main]]
+    Name = "외부"
     identifier = "teams"
     URL = "#"
-    Weight = 1.0
+    Weight = 10
 [[menu.main]]
     name = "GitHub"
     parent = "teams"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    parent = "teams"
-    url = "https://twitter.com/rstudio"
-
+    url = "https://github.com/pagkorkr/pagk.or.kr"
 
 [params]
     description = "A website built through Hugo and blogdown."
