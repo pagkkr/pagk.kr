@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "사진"
     identifier = "photos"
-    url = "/categories/photos/"
+    url = "/photos/"
     weight = -80
 [[menu.main]]
     name = "가입안내"
