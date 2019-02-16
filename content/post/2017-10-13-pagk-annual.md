@@ -4,8 +4,6 @@ title: "2017 PAGK Annual Meeting"
 author: "총무간사"
 ---
 
-# 2017 PAGK Annual Meeting
-
 - 일시: 2017년 11월 10일 (금) 09:20 - 17:15
 - 장소: 서울아산병원 동관 6층 소강당
 - 등록 안내
