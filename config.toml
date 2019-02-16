@@ -48,7 +48,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     Name = "EACPT"
     parent = "external"
-    URL = "https://eacpt.org"
+    URL = "https://eacpt.eu"
     Weight = 10
 [[menu.main]]
     name = "GitHub"
