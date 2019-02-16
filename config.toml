@@ -31,6 +31,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/apply/"
     weight = -90
 [[menu.main]]
+    name = "사진"
+    identifier = "photos"
+    url = "/photos/"
+    weight = -80
+[[menu.main]]
     name = "가입안내"
     parent = "members"
     url = "/apply/"
