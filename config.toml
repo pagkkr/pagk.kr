@@ -19,12 +19,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "소개"
     parent = "intro"
     url = "/about/"
-    weight = -100
+    weight = 1
 [[menu.main]]
     name = "회칙"
     parent = "intro"
     url = "/code/"
-    weight = -10
+    weight = 3
 [[menu.main]]
     name = "회원안내"
     identifier = "members"
@@ -41,15 +41,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://bit.ly/pilpagk"
     weight = 2
 [[menu.main]]
-    Name = "외부"
-    identifier = "teams"
+    Name = "외부사이트"
+    identifier = "external"
     URL = "#"
     Weight = 10
 [[menu.main]]
+    Name = "EACPT"
+    parent = "external"
+    URL = "https://eacpt.org"
+    Weight = 10
+[[menu.main]]
     name = "GitHub"
-    parent = "teams"
     url = "https://github.com/pagkorkr/pagk.or.kr"
-
+    weight = 99
 [params]
     description = "A website built through Hugo and blogdown."
 
