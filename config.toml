@@ -1,82 +1,67 @@
-baseurl = "/"
-languageCode = "en-us"
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
 title = "PAGK"
-#theme = "hugo-lithium"
-theme = "beg"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
+
+# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+############################
+## Advanced options below ##
+############################
 
-[[menu.main]]
-    name = "연구회소개"
-    identifier = "intro"
-    url = "/about/"
-    weight = -100
-[[menu.main]]
-    name = "소개"
-    parent = "intro"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
-    name = "회칙"
-    parent = "intro"
-    url = "/code/"
-    weight = 3
-[[menu.main]]
-    name = "회원안내"
-    identifier = "members"
-    url = "/apply/"
-    weight = -90
-[[menu.main]]
-    name = "사진"
-    identifier = "photos"
-    url = "/photos/"
-    weight = -80
-[[menu.main]]
-    name = "가입안내"
-    parent = "members"
-    url = "/apply/"
-    weight = 1
-[[menu.main]]
-    name = "구글 메일링리스트"
-    parent = "members"
-    url = "https://bit.ly/pilpagk"
-    weight = 2
-[[menu.main]]
-    Name = "외부사이트"
-    identifier = "external"
-    URL = "#"
-    Weight = 10
-[[menu.main]]
-    Name = "EACPT"
-    parent = "external"
-    URL = "https://eacpt.eu"
-    Weight = 10
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/pagkorkr/pagk.or.kr"
-    weight = 99
-[params]
-    description = "A website built through Hugo and blogdown."
+# Name of Academic theme folder in `themes/`.
+theme = "academic"
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+# Get last modified date for content from Git?
+enableGitInfo = true
 
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "kr"
+hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
 
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
 
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
