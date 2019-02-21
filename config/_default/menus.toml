@@ -5,13 +5,21 @@
 
 [[main]]
   name = "PAGK"
-  url = "#about"
+  identifier = "aboutpagk"
+  url = "#"
   weight = 1
 
 [[main]]
-  name = "Publications"
-  url = "#publications_featured"
-  weight = 2
+  name = "Introduction"
+  parent = "aboutpagk"
+  url = "/aboutpagk/"
+  weight = 10
+
+[[main]]
+  name = "Code"
+  parent = "aboutpagk"
+  url = "/code/"
+  weight = 20
 
 [[main]]
   name = "Posts"
@@ -19,12 +27,7 @@
   weight = 3
 
 [[main]]
-  name = "Project"
-  url = "#projects"
-  weight = 4
-
-[[main]]
-  name = "Tutorials"
+  name = "Meetings"
   url = "/tutorial/"
   weight = 5
 
