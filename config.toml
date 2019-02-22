@@ -32,7 +32,7 @@ theme = "academic"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "kr"
+defaultContentLanguage = "en"
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
