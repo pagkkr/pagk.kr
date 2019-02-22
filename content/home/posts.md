@@ -15,7 +15,7 @@ count = 5
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view = 5
+view = 1
 
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`

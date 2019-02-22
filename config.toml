@@ -13,13 +13,13 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "PAGK &copy;"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "shanmdphd"
 
 ############################
 ## Advanced options below ##
@@ -29,7 +29,7 @@ disqusShortname = ""
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "kr"
