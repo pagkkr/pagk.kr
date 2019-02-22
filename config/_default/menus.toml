@@ -16,21 +16,20 @@
   weight = 10
 
 [[main]]
-  name = "History"
+  name = "Code"
   parent = "aboutpagk"
-  url = "/history/"
-  weight = 15
-
-[[main]]
-  name = "Policy"
-  parent = "aboutpagk"
-  url = "/policy/"
+  url = "/code/"
   weight = 20
 
 [[main]]
   name = "Posts"
   url = "/post/"
   weight = 3
+
+[[main]]
+  name = "Photos"
+  url = "/categories/photos"
+  weight = 4
 
 [[main]]
   name = "Meetings"
