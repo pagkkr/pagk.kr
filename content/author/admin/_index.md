@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "TBD"
+name = "총무"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PAGK 총무"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Catholic University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "반갑습니다."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "pagk2006@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Population Approach",
+  "Pharmacokinetics/Pharmacodynamics",
+  "Modeling and Simulation"
 ]
 
 # Organizational groups that you belong to (for People widget)
