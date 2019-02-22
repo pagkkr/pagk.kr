@@ -16,9 +16,15 @@
   weight = 10
 
 [[main]]
-  name = "Code"
+  name = "History"
   parent = "aboutpagk"
-  url = "/code/"
+  url = "/history/"
+  weight = 15
+
+[[main]]
+  name = "Policy"
+  parent = "aboutpagk"
+  url = "/policy/"
   weight = 20
 
 [[main]]
