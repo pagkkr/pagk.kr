@@ -22,7 +22,7 @@
   weight = 15
 
 [[main]]
-  name = "policy"
+  name = "Policy"
   parent = "aboutpagk"
   url = "/policy/"
   weight = 20
@@ -43,9 +43,14 @@
   weight = 5
 
 [[main]]
+  name = "Forum"
+  url = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
+  weight = 6
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,3 +58,4 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 7
+#
