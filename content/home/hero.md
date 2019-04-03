@@ -21,8 +21,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#999999"
-  #gradient_start = "#4bb4e3"
+  #gradient_start = "#999999"
+  gradient_start = "#4bb4e3"
   gradient_end = "#000000"
   
   # Background image.
@@ -36,22 +36,27 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "post/getting-started/"
-  label = "시작하기"
+  url = "/aboutpagk/"
+  label = "PAGK 소개"
   icon_pack = "fas"
-  icon = "download"
+  icon = "capsules"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "#contact"
+  label = "가입하기"
+  icon = "user-plus"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+#[cta_note]
+#  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic"><!-- V --></a>'
 +++
 
-**Population Approach Group in Korea**
+<!-- 한성필 추가 -->
 
-<!--Build **Anything** with Widgets-->
+Population Approach Group in Korea
 
+최적의 맞춤 약물 요법과 **신약 개발**
+
+<!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/pagkorkr/pagk.or.kr" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+-->
