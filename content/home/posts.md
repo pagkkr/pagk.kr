@@ -6,10 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "최근 공지글입니다. "
 
 # Number of recent posts to list.
-count = 5
+count = 2
 
 # View.
 #   1 = List
