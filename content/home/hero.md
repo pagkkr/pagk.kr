@@ -53,7 +53,8 @@ hero_media = "hero-academic.png"
 
 <!-- 한성필 추가 -->
 
-Population Approach Group in Korea
+Population Approach Group in Korea  
+집단 약동 약력학 연구회
 
 최적의 맞춤 약물 요법과 **신약 개발**
 
