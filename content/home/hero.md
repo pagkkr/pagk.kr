@@ -23,7 +23,7 @@ hero_media = "hero-academic.png"
   # Background gradient.
   #gradient_start = "#999999"
   gradient_start = "#4bb4e3"
-  gradient_end = "#000000"
+  gradient_end = "#FBB034"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
