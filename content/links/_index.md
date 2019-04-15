@@ -3,16 +3,16 @@ title = "Links"
 date = "2016-05-05"
 +++
 
+[<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
 
 ## KPML
 
-Korean Pharmacometrics Model Library [Introduction PDF](/introduction-kpml.pdf)
+계량약리모델 라이브러리, Korean Pharmacometrics Model Library [Introduction PDF](/introduction-kpml.pdf)
 
-[<img src="http://kscpt.org/Images/kpml.png">](http://repository.kpml.or.kr)
 
 ## 연구소
 
-- 가톨릭대 계량약리학연구소 PIPET <http://www.pipet.co.kr>
+- 가톨릭대 계량약리학연구소 PIPET <http://www.pipet.or.kr>
 - KAIST Math Biol Lab <http://mathsci.kaist.ac.kr/~jaekkim>
 
 ## 회사
