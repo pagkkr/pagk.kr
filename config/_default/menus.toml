@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Photos"
-  url = "/categories/photos"
+  url = "/categories/photos/"
   weight = 4
 
 [[main]]
@@ -48,9 +48,14 @@
   weight = 6
 
 [[main]]
+  name = "Links"
+  url = "/links/"
+  weight = 7
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
