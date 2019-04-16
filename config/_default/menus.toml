@@ -29,7 +29,7 @@
 
 [[main]]
   name = "운영위원회"
-  parent = "boardk"
+  parent = "aboutpagk"
   url = "/aboutpagk/board/"
   weight = 30
 
