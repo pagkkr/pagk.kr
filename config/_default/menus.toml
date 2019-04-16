@@ -28,6 +28,12 @@
   weight = 20
 
 [[main]]
+  name = "운영위원회"
+  parent = "boardk"
+  url = "/aboutpagk/board/"
+  weight = 30
+
+[[main]]
   name = "Posts"
   url = "/post/"
   weight = 3
