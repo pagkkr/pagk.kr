@@ -23,18 +23,3 @@ date = "2016-05-05"
 2. 집단 약동/약력학 워크샵의 개최와 교재 발간
 3. 정부, 산업계 및 공공단체와 협동연구 및 사업
 4. 국내외 집단 연구자들간의 학술 정보교환 및 공동연구
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/a/pagk.or.kr/forum/embed/?place=forum/list'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
-
