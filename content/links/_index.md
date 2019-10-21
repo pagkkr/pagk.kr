@@ -25,6 +25,7 @@ date = "2016-05-05"
 
 ## 메일링리스트
 
-- PAGK mailing list <https://groups.google.com/a/pagk.or.kr/forum/#!forum/list>
-- KSCPT Issue & Issue <https://groups.google.com/a/kscpt.kr/forum/#!forum/qna>
-- PAGK PK-PD Data Analysis using R Workshop <https://groups.google.com/a/acr.kr/forum/#!forum/w180713>
+- [PAGK mailing list](https://groups.google.com/a/pagk.or.kr/forum/#!forum/list)
+- [KSCPT Issue & Issue](https://groups.google.com/a/kscpt.kr/forum/#!forum/qna)
+- [PAGK PK-PD Data Analysis using R Workshop](https://groups.google.com/a/acr.kr/forum/#!forum/w180713)
+
