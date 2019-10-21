@@ -3,6 +3,8 @@ title = "Links"
 date = "2016-05-05"
 +++
 
+링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pagkorkr/pagk.or.kr/issues/1)로 보고해 주십시오. 감사합니다.
+
 [<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
 
 ## KPML
