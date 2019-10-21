@@ -23,3 +23,8 @@ date = "2016-05-05"
 
 - 국가임상시험지원재단 KONECT <http://konect.or.kr> 
 
+## 메일링리스트
+
+- PAGK mailing list <https://groups.google.com/a/pagk.or.kr/forum/#!forum/list>
+- KSCPT Issue & Issue <https://groups.google.com/a/kscpt.kr/forum/#!forum/qna>
+- PAGK PK-PD Data Analysis using R Workshop <https://groups.google.com/a/acr.kr/forum/#!forum/w180713>
