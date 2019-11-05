@@ -39,14 +39,19 @@
   weight = 3
 
 [[main]]
-  name = "Photos"
-  url = "/categories/photos/"
+  name = "Annual Meeting"
+  url = "/categories/annual-meeting/"
   weight = 4
 
 [[main]]
-  name = "Meetings"
-  url = "/tutorial/"
+  name = "Photos"
+  url = "/categories/photos/"
   weight = 5
+
+#[[main]]
+#  name = "Meetings"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[main]]
   name = "Forum↗"
