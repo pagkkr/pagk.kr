@@ -5,6 +5,15 @@ date = "2016-05-05"
 
 링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pagkorkr/pagk.or.kr/issues/1)로 보고해 주십시오. 감사합니다.
 
+## 관련학회
+
+- PAGJA - Population Approach Group in Japan <http://www.pagja.org/>	
+- PCPC - Professional Committee of Pharmacometrics in China <http://www.cnphars.org.cn/en/fzjg.asp?anclassid=2&nclassid=9>
+- PAGE - Population Approach Group in Europe https://www.page-meeting.org/
+- PAGANZ - Population Approach Group of Australia & New Zealand <https://www.paganz.org/>
+- ACoP - American Conference on Pharmacometrics <https://www.go-acop.org/>
+- 대한임상약리학회 <http://www.kscpt.org/>
+
 [<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
 
 ## KPML
