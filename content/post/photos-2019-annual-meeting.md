@@ -1,6 +1,6 @@
 ---
 date: 2019-11-28
-title: 2019 PAGK Annual Meeting
+title: Photos-2019 PAGK Annual Meeting 
 categories: [Photos]
 ---
 
