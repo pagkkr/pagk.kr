@@ -4,7 +4,7 @@ title: 2009 NONMEM workshop
 categories: [Photos]
 ---
 
-2009년 초급워크샵
+2009 NONMEM workshop - basic
 
 ![](1.jpg)
 
