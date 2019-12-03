@@ -54,9 +54,9 @@
 #  weight = 5
 
 [[main]]
-  name = "Forum↗"
+  name = "Google-Groups↗"
   url = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
-  weight = 6
+  weight = 6.9
 
 [[main]]
   name = "Talk"
