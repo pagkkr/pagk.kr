@@ -1,15 +1,15 @@
 ---
 title: "Impact of target binding on the pharmacokinetics of small-molecule drugs: Insights via PBPK modeling"
 event: PAGK Annual Meeting 2019
-event_url: https://pagk.netlify.com
+event_url: /post/2019-05-10-pagk-2019/
 
-location: Busan
+location: 해운대백병원 세미나실A
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: Korea
+  street: 해운대로 875
+  city: 해운대구
+  region: 부산광역시
+  postcode: '48108'
+  country: South Korea
 
 summary: ""
 abstract: ""
@@ -30,16 +30,16 @@ tags: [Busan, PBPK]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: Wooin Lee'
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: eye
+  icon_pack: fa
+  name: Preview
+  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/EZVAYB2hIVBMtxJO30NxNkwBzJYGC58jH-4IGvmnQ97DCQ?e=TZJjMe
 url_code: ""
-url_pdf: "https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/EZVAYB2hIVBMtxJO30NxNkwBzJYGC58jH-4IGvmnQ97DCQ?e=TZJjMe"
+url_pdf: "/2019/S1-2.pdf"
 url_slides: ""
 url_video: ""
 

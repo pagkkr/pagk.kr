@@ -37,9 +37,9 @@ links:
 - icon: eye
   icon_pack: fa
   name: Preview
-  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/EZVAYB2hIVBMtxJO30NxNkwBzJYGC58jH-4IGvmnQ97DCQ?e=TZJjMe
+  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/ETxEbDYxc0xJkg_5Cip5NsEBQPbgrXZlMQ3u2-5FT3zQFw?e=e7Oe5J
 url_code: ""
-url_pdf: "/2019/P1-3.pdf"
+url_pdf: "/2019/S1-3.pdf"
 url_slides: ""
 url_video: ""
 
