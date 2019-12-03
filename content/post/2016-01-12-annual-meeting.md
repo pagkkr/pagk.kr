@@ -3,6 +3,7 @@ date: "2016-01-12"
 title: "2016 PAGK Annual Meeting"
 author: "총무간사"
 categories: ["Annual Meeting"]
+tags: [Chungnam, 충남대, 대전]
 ---
 
 PAGK 회원분들께,

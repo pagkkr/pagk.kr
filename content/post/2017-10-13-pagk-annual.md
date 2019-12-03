@@ -3,6 +3,7 @@ date: "2017-10-13"
 title: "2017 PAGK Annual Meeting"
 author: "총무간사"
 categories: ["Annual Meeting"]
+tags: [서울아산병원]
 ---
 
 - 일시: 2017년 11월 10일 (금) 09:20 - 17:15

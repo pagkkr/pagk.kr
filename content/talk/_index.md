@@ -1,5 +1,5 @@
 +++
-title = "Annual PAGK"
+title = "PAGK Annual Meeting Talks"
 
 # View.
 #   1 = List

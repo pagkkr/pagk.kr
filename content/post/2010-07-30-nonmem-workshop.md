@@ -1,6 +1,7 @@
 ---
 date: "2010-07-30"
 title: "2010 NONMEM 워크샵 안내"
+tags: [NONMEM, Workshop, 서울성모병원, 가톨릭대]
 ---
 
 안녕하십니까?  

@@ -1,10 +1,10 @@
 ---
 date: 2012-04-18
 title: 2012 PAGK NONMEM Introductory Workshop
-author: 총무간사
+tags: [NONMEM, Workshop, 서울성모병원]
 ---
 
-> 2012 PAGK NONMEM Introductory Workshop 일정.pdf (80.7K) [64] DATE : 2012-04-18 10:15:45
+[2012-PAGK-NONMEM-Introductory-Workshop-일정.pdf](2012-PAGK-NONMEM-Introductory-Workshop-일정.pdf)
 
 6/29(금)-30(토) 이틀간 서울성모병원에서 PAGK 주관 NONMEM Introductory Workshop을 진행합니다. 
 
