@@ -7,12 +7,12 @@ date = "2016-05-05"
 
 ## 관련학회
 
-- PAGJA - Population Approach Group in Japan <http://www.pagja.org/>	
-- PCPC - Professional Committee of Pharmacometrics in China <http://www.cnphars.org.cn/en/fzjg.asp?anclassid=2&nclassid=9>
-- PAGE - Population Approach Group in Europe https://www.page-meeting.org/
-- PAGANZ - Population Approach Group of Australia & New Zealand <https://www.paganz.org/>
-- ACoP - American Conference on Pharmacometrics <https://www.go-acop.org/>
-- 대한임상약리학회 <http://www.kscpt.org/>
+- [PAGJA - Population Approach Group in Japan](http://www.pagja.org/)
+- [PCPC - Professional Committee of Pharmacometrics in China](http://www.cnphars.org.cn/en/fzjg.asp?anclassid=2&nclassid=9)
+- [PAGE - Population Approach Group in Europe](https://www.page-meeting.org/)
+- [PAGANZ - Population Approach Group of Australia & New Zealand](https://www.paganz.org/)
+- [ACoP - American Conference on Pharmacometrics](https://www.go-acop.org/)
+- [대한임상약리학회](http://www.kscpt.org/)
 
 [<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
 
@@ -20,19 +20,18 @@ date = "2016-05-05"
 
 계량약리모델 라이브러리, Korean Pharmacometrics Model Library [Introduction PDF](/introduction-kpml.pdf)
 
-
 ## 연구소
 
-- 가톨릭대 계량약리학연구소 PIPET <http://www.pipet.or.kr>
-- KAIST Math Biol Lab <http://mathsci.kaist.ac.kr/~jaekkim>
+- [가톨릭대 계량약리학연구소 PIPET](http://www.pipet.or.kr)
+- [KAIST Math Biol Lab](http://mathsci.kaist.ac.kr/~jaekkim)
 
 ## 회사
 
-- Qfitter <http://qfitter.com/>
+- [Qfitter](http://qfitter.com/)
 
 ## 기타 
 
-- 국가임상시험지원재단 KONECT <http://konect.or.kr> 
+- [국가임상시험지원재단 KONECT](http://konect.or.kr)
 
 ## 메일링리스트
 

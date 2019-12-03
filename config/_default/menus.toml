@@ -18,19 +18,19 @@
 [[main]]
   name = "연혁"
   parent = "aboutpagk"
-  url = "/history/"
+  url = "/abouthistory/"
   weight = 15
 
 [[main]]
   name = "회칙"
   parent = "aboutpagk"
-  url = "/policy/"
+  url = "/aboutpolicy/"
   weight = 20
 
 [[main]]
   name = "운영위원회"
   parent = "aboutpagk"
-  url = "/aboutpagk/board/"
+  url = "/aboutboard/"
   weight = 30
 
 [[main]]
