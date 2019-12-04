@@ -37,7 +37,7 @@ links:
 - icon: eye
   icon_pack: fa
   name: Preview
-  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/EdNuZNRssbBCm0idurvlmqQB2BcFzod1dNqyU22xxVA_hA?e=3gGUYY
+  url: https://github.com/pagkorkr/pagk.or.kr/blob/master/static/2019/S3-3.pdf
 url_code: ""
 url_pdf: "/2019/S3-3.pdf"
 url_slides: ""
