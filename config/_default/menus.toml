@@ -49,13 +49,14 @@
 #  weight = 5
 
 [[main]]
-  name = "Talks"
+  name = "Slides"
   url = "/talk/"
   weight = 45
 
 [[main]]
   name = "Photos"
-  url = "/categories/photos/"
+  #url = "/categories/photos/"
+  url = "/project/"
   weight = 50
 
 [[main]]
