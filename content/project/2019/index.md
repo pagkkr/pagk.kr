@@ -6,7 +6,7 @@ title = "2019 PAGK Annual Meeting"
 date = 2019-11-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "해운대백병원"
+summary = "해운대백병원, 부산"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{icon_pack = "fab", icon="google", name="Google Photos", url = "https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
