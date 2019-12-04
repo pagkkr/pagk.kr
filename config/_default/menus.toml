@@ -30,7 +30,7 @@
 [[main]]
   name = "운영위원회"
   parent = "aboutpagk"
-  url = "/aboutboard/"
+  url = "/steering-committee/"
   weight = 4
 
 [[main]]
@@ -55,8 +55,7 @@
 
 [[main]]
   name = "Photos"
-  #url = "/categories/photos/"
-  url = "/project/"
+  url = "/photos/"
   weight = 50
 
 [[main]]
