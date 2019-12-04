@@ -1,5 +1,5 @@
 ---
-title: "Optimazation of antiviral therapies for the treatment of Zika virus by mathematical modeling"
+title: "Compartment model for valveless pumping with gravity"
 event: PAGK Annual Meeting 2019
 event_url: /post/2019-05-10-pagk-2019/
 
@@ -11,35 +11,35 @@ address:
   postcode: '48108'
   country: South Korea
 
-summary: ""
+summary: "Session 3: Systems Pharmacology"
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-28T14:20:00Z"
-date_end: "2019-11-28T15:00:00Z"
+date: "2019-11-28T16:40:00Z"
+date_end: "2019-11-28T17:10:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-11-28"
 
-authors: [Tae Whan Kim]
-tags: [Busan, Zika virus, antiviral therapy]
+authors: ["Do Wan Kim (김도완, 인하대)"]
+tags: [인하대, valveless pumping, systems pharmacology, ELM]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: Tae Whan Kim'
+  caption: 'Image credit: Do Wan Kim'
   focal_point: Right
 
 links:
 - icon: eye
   icon_pack: fa
   name: Preview
-  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/ETxEbDYxc0xJkg_5Cip5NsEBQPbgrXZlMQ3u2-5FT3zQFw?e=e7Oe5J
+  url: https://catholicackr-my.sharepoint.com/:b:/g/personal/shan_catholic_ac_kr/Edb0fgnU6ohGqyLi3bxXBWgBpskkhNN6EfcJqjdj6ZUj3w?e=p0K78Q
 url_code: ""
-url_pdf: "/2019/S1-3.pdf"
+url_pdf: "/2019/S3-1.pdf"
 url_slides: ""
 url_video: ""
 

@@ -7,46 +7,41 @@
   name = "PAGK"
   identifier = "aboutpagk"
   url = "#"
-  weight = 1
+  weight = 10
 
 [[main]]
   name = "PAGK 소개"
   parent = "aboutpagk"
   url = "/aboutpagk/"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "연혁"
   parent = "aboutpagk"
   url = "/abouthistory/"
-  weight = 15
+  weight = 2
 
 [[main]]
   name = "회칙"
   parent = "aboutpagk"
   url = "/aboutpolicy/"
-  weight = 20
+  weight = 3
 
 [[main]]
   name = "운영위원회"
   parent = "aboutpagk"
   url = "/aboutboard/"
-  weight = 30
+  weight = 4
 
 [[main]]
   name = "Posts"
   url = "/post/"
-  weight = 3
+  weight = 30
 
 [[main]]
   name = "Annual Meeting"
   url = "/categories/annual-meeting/"
-  weight = 4
-
-[[main]]
-  name = "Photos"
-  url = "/categories/photos/"
-  weight = 5
+  weight = 40
 
 #[[main]]
 #  name = "Meetings"
@@ -54,24 +49,29 @@
 #  weight = 5
 
 [[main]]
-  name = "Google-Groups↗"
-  url = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
-  weight = 6.9
+  name = "Talks"
+  url = "/talk/"
+  weight = 45
 
 [[main]]
-  name = "Talk"
-  url = "/talk/"
-  weight = 6.5
+  name = "Photos"
+  url = "/categories/photos/"
+  weight = 50
+
+[[main]]
+  name = "Google-Groups↗"
+  url = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
+  weight = 60
 
 [[main]]
   name = "Links"
   url = "/links/"
-  weight = 7
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

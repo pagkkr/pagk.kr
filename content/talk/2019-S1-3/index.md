@@ -11,7 +11,7 @@ address:
   postcode: '48108'
   country: South Korea
 
-summary: ""
+summary: "Session 1: PBPK"
 abstract: ""
 
 # Talk start and end times.
@@ -23,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-11-28"
 
-authors: [Tae Whan Kim]
-tags: [Busan, Zika virus, antiviral therapy]
+authors: ["Tae Whan Kim (김태환, 대구가톨릭대)"]
+tags: [대구가톨릭대, Zika virus, antiviral therapy]
 
 # Is this a featured talk? (true/false)
 featured: false

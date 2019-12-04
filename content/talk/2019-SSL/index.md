@@ -23,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-11-28"
 
-authors: [Kyun-Seop Bae]
-tags: [Busan, R, PK-PD, open source, NONMEM, 서울아산병원]
+authors: [Kyun-Seop Bae (배균섭, 울산대)]
+tags: [Busan, R, PK-PD, open source, NONMEM, 서울아산병원, 울산대]
 
 # Is this a featured talk? (true/false)
 featured: false
