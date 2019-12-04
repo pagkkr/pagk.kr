@@ -30,7 +30,7 @@ tags: [인제대, proarrhythmia risk, systems pharmacology]
 featured: false
 
 image:
-  caption: 'Image credit: Tae Whan Kim'
+  caption: 'Image credit: Jae Boum Youm'
   focal_point: Right
 
 links:

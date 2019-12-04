@@ -24,7 +24,7 @@ all_day: false
 publishDate: "2019-11-28"
 
 authors: ["Won-ho Kang (강원호, 충남대)"]
-tags: [충남대, Zika virus, antiviral therapy]
+tags: [충남대, NONMEM, variability]
 
 # Is this a featured talk? (true/false)
 featured: false
