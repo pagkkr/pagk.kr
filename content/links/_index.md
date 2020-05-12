@@ -18,7 +18,7 @@ date = "2016-05-05"
 
 ## KPML
 
-계량약리모델 라이브러리, Korean Pharmacometrics Model Library [Introduction PDF](/introduction-kpml.pdf)
+[계량약리모델 라이브러리, Korean Pharmacometrics Model Library](http://repository.kpml.or.kr) [Introduction PDF](/introduction-kpml.pdf)
 
 ## 연구소
 
