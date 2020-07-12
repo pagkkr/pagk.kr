@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://groups.pagk.kr"
-  to = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
+  from = "https://kpml.pagk.kr"
+  to = "http://repository.kpml.or.kr"
   status = 301
   force = true
