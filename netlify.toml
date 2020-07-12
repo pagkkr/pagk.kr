@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
+  status = 200
