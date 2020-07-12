@@ -1,9 +1,12 @@
+# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
+
 [[redirects]]
   from = "https://pagk.netlify.app"
   to = "https://pagk.kr"
   status = 301
   force = true
-# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
+
+# https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify
 
 [build]
 publish = "public"
@@ -35,4 +38,5 @@ HUGO_VERSION = "0.73.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
 
