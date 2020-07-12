@@ -1,9 +1,16 @@
+[[redirects]]
+  from = "https://pagk.netlify.app"
+  to = "https://pagk.kr"
+  status = 301
+  force = true
+# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.60.1"
+HUGO_VERSION = "0.73.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
