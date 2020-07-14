@@ -1,1 +1,1 @@
-# groups.pagk.kr
+https://groups.pagk.kr
