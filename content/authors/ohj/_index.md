@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 오정미
+title: 오정미
 
 # Is this the primary user of the site?
 superuser: false

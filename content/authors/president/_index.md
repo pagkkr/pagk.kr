@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 임동석
+title: 임동석
 
 # Is this the primary user of the site?
 superuser: false

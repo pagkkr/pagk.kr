@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 윤영란
+title: 윤영란
 
 # Is this the primary user of the site?
 superuser: false

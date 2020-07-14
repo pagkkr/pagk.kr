@@ -1,6 +1,6 @@
 ---
 # Display name
-name: PAGK
+title: PAGK
 
 # Username (this should match the folder name)
 authors:

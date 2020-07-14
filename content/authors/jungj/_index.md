@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 정재용
+title: 정재용
 
 # Is this the primary user of the site?
 superuser: false

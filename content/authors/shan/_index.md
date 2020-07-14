@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 한성필
+title: 한성필
 
 # Username (this should match the folder name)
 authors:

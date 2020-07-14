@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 이형기
+title: 이형기
 
 # Is this the primary user of the site?
 superuser: false

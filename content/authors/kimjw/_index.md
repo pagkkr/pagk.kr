@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 김재우
+title: 김재우
 
 # Is this the primary user of the site?
 superuser: false

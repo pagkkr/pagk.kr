@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 배균섭
+title: 배균섭
 
 # Is this the primary user of the site?
 superuser: false

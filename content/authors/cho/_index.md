@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 조혜영
+title: 조혜영
 
 # Is this the primary user of the site?
 superuser: false

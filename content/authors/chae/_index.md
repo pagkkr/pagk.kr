@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 채동우
+title: 채동우
 
 # Is this the primary user of the site?
 superuser: false
