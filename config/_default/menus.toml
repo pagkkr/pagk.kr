@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "PAGK"
+  name = "PAGK.kr"
   identifier = "aboutpagk"
   url = "#"
   weight = 10
@@ -59,7 +59,7 @@
   weight = 50
 
 [[main]]
-  name = "groups.pagk.kr↗"
+  name = "Groups.PAGK.kr↗"
   url = "https://groups.pagk.kr"
   weight = 60
 
