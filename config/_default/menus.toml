@@ -59,8 +59,8 @@
   weight = 50
 
 [[main]]
-  name = "Google-Groups↗"
-  url = "https://groups.google.com/a/pagk.or.kr/forum/#!forum/list/"
+  name = "groups.pagk.kr↗"
+  url = "https://groups.pagk.kr"
   weight = 60
 
 [[main]]
