@@ -9,7 +9,7 @@ title = "PAGK"
 # Order that this section will appear in.
 weight = 3
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
 
 # Background (optional).
