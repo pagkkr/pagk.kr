@@ -1,7 +1,7 @@
 public/
 resources/
 .idea/
-
+themes/
 # History files
 .Rhistory
 .Rapp.history
