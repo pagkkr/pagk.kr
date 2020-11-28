@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fab", icon="google", name="Google Photos", url = "https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8"}]
+links = [{icon_pack = "fab", icon="google", name="Google Photos", url = "https://photos.app.goo.gl/vnTz1DqHRs6AgYN38"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
