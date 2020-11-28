@@ -6,11 +6,11 @@ title = "2020 PAGK Annual Meeting"
 date = 2020-11-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "해운대백병원, 부산"
+summary = "웨스턴라이프 호텔, 익산"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["PBPK", "systems pharmacology", "Annual Meeting", "Workshop"]
+# Example: `tags = ["learning", "deep-learning"]`
+tags = ["PBPK", "systems pharmacology", "Annual Meeting", "MPS", "Growth Model", "Michaelis-menten", "pharmacometrics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
