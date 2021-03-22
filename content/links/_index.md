@@ -3,17 +3,12 @@ title = "Links"
 date = "2016-05-05"
 +++
 
-링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pagkorkr/pagk.or.kr/issues/1)로 보고해 주십시오. 감사합니다.
-
 ## KSCPT 관련
 [<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
 
 - [대한임상약리학회](http://www.kscpt.org/)
-- [계량약리모델 라이브러리, Korean Pharmacometrics Model Library](http://repository.kscpt.org) [Introduction PDF](/introduction-kpml.pdf)
-    - <http://nca.kscpt.org>
-    - <http://ca.kscpt.org>
-    - <http://allometry.kscpt.org>
-    - <http://ivive.kscpt.org>
+- [계량약리모델 라이브러리, Korean Pharmacometrics Model Library](http://repository.kscpt.org) | [Introduction PDF](/introduction-kpml.pdf)
+    - [NCA](http://nca.kscpt.org) | [CA](http://ca.kscpt.org) | [Allometry](http://allometry.kscpt.org) | [IVIVE](http://ivive.kscpt.org)
 
 ## 해외 관련학회
 
@@ -31,6 +26,7 @@ date = "2016-05-05"
 
 ## 회사
 
+- [AIMS BioScience](https://github.com/aimsbiosci)
 - [Qfitter](http://qfitter.com/)
 
 ## 기타 
@@ -44,3 +40,6 @@ date = "2016-05-05"
 - [PAGK PK-PD Data Analysis using R Workshop](https://groups.google.com/a/acr.kr/forum/#!forum/w180713)
 - [제 11회 서울아산병원 임상약리학과 NONMEM Workshop](https://groups.google.com/a/acr.kr/forum/#!forum/nmw2018)
 
+---
+
+> 링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pagkorkr/pagk.or.kr/issues/1)로 보고해 주십시오. 감사합니다.
