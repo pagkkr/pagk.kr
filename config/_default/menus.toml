@@ -43,10 +43,10 @@
   url = "/categories/annual-meeting/"
   weight = 40
 
-#[[main]]
-#  name = "Meetings"
-#  url = "/tutorial/"
-#  weight = 5
+[[main]]
+  name = "집담회/워크샵"
+  url = "/tutorial/"
+  weight = 41
 
 [[main]]
   name = "Slides"

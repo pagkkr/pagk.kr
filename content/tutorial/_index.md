@@ -1,5 +1,5 @@
 +++
-title = "2006 - 2012"
+title = "집담회"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -14,6 +14,16 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
+## 2021
+
+### Online 집담회: Integrated Nonclinical-Clinical QT/Proarrhythmic Risk Assessment
+
+>  QTc prolongation assessment와 관련, nonclinical data를 활용하여 C-QT study design을 좀 더 용이하게 만들 수 있도록 하는 FDA의 움직임이 있어, 회원들과 이 주제로 토론할 수 있는 자리를 만들고자 합니다. small moledule 신약 개발하시는 분들이 early phase에서 QT data를 준비하는 데 도움이 될 수 있을 것입니다.
+
+- 일시 : TBD
+- 장소 : [Google Classroom](https://classroom.google.com/c/MzAxNTEwMDA5ODY1?cjc=xpa5r5l) or WebEx (TBD)
+- 프로그램
+    - TBD
 
 ## 2012
 
@@ -39,3 +49,4 @@ type = "docs"  # Do not modify.
     - 18:00~18:40 - Nonlinear Mixed Effects Modeling for in vitro Cell Viability Study (서울아산병원 임상약리학과 진석준)
     - 18:40~19:00 - Development of an interaction model for co-administration of Simvastatin and Amlodipine 
     (연세대학교 의과대학 약리학교실 박사과정 손한길)
+
