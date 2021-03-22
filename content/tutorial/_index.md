@@ -21,9 +21,13 @@ type = "docs"  # Do not modify.
 >  QTc prolongation assessment와 관련, nonclinical data를 활용하여 C-QT study design을 좀 더 용이하게 만들 수 있도록 하는 FDA의 움직임이 있어, 회원들과 이 주제로 토론할 수 있는 자리를 만들고자 합니다. small moledule 신약 개발하시는 분들이 early phase에서 QT data를 준비하는 데 도움이 될 수 있을 것입니다.
 
 - 일시 : TBD
-- 장소 : [Google Classroom](https://classroom.google.com/c/MzAxNTEwMDA5ODY1?cjc=xpa5r5l) or WebEx (TBD)
+- 장소 : [Google Classroom](https://classroom.google.com/c/MzAxNTEwMDA5ODY1?cjc=xpa5r5l) and WebEx
 - 프로그램
     - TBD
+- 참고자료
+    - [FDA.gov: New Approaches for an Integrated Nonclinical-Clinical QT/Proarrhythmic Risk Assessment](https://www.fda.gov/drugs/news-events-human-drugs/new-approaches-integrated-nonclinical-clinical-qtproarrhythmic-risk-assessment-10152020-10162020)
+    - [FDA.gov: Webinar agenda](https://www.fda.gov/media/142132/download)
+    - [Youtube #1](https://www.youtube.com/watch?v=Ymem34Tykfc) | [Youtube #2](https://www.youtube.com/watch?v=1bwPZYVmwWc)
 
 ## 2012
 
