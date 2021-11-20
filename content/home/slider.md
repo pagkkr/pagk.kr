@@ -17,23 +17,23 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "2020 PAGK Annual Meeting"
-  content = "Western Life Hotel, Iksan"
+  title = "2021 PAGK Annual Meeting"
+  content = "Donggang B, The K Hotel, Seoul"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/featured.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/2021.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "사진보기"
-  #cta_url = "http://pagk.kr/project/2020/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "camera"
+  cta_label = "Details"
+  cta_url = "https://www.pagk.kr/post/2021-11-26-annual-meeting"
+  cta_icon_pack = "fas"
+  cta_icon = "camera"
 
 [[item]]
   title = "2021-2022 신임회장"
