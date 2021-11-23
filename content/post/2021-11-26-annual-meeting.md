@@ -55,4 +55,4 @@ PAGK 회원 여러분께,
 
 ## Program
 
-![](/2021-program.png)
+![](/2021-program.jpg)
