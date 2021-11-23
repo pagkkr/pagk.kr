@@ -17,14 +17,14 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "2021 PAGK Annual Meeting"
-  content = "Donggang B, The K Hotel, Seoul"
-  align = "right"  # Choose `center`, `left`, or `right`.
+  #title = "2021 PAGK Annual Meeting"
+  #content = "Donggang B, The K Hotel, Seoul"
+  #align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/2021.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/2021-pagkkr-header.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
