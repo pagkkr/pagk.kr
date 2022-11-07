@@ -31,7 +31,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Details"
-  cta_url = "https://www.pagk.kr/post/2021-11-26-annual-meeting"
+  cta_url = "https://www.pagk.kr/post/2022-11-21-annual-meeting"
   cta_icon_pack = "fas"
   cta_icon = "camera"
 
