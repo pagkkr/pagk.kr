@@ -49,7 +49,7 @@ PAGK 회원 여러분께,
 - 장소: 서울대학교 호암회관 컨벤션센터 목련홀
 - 시간: 2022년 11월 21일(월) 10:00 ~ 12:45
 - 연자 : Steven kern (Global Health Labs), Geoffery Kim (BioGene), Jeayeon Kim (Novartis)
-- 대상 : PAGK 사전 혹은 현장 등록자만 참석 가능
+- 대상 : PAGK 사전 혹은 현장 등록자만 참석 가능.
 
 ## Program
 
